@@ -1,3 +1,5 @@
+//Controle FPS - versão 0.5
+
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
